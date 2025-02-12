@@ -24,6 +24,25 @@
 		5DCACB8F33CDC322A6C60F78 /* libPods-demoproject.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-demoproject.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = demoproject/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = demoproject/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C12CFCE32D549EF00012C1C4 /* AntDesign.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = AntDesign.ttf; sourceTree = "<group>"; };
+		C12CFCE42D549EF00012C1C4 /* Entypo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Entypo.ttf; sourceTree = "<group>"; };
+		C12CFCE52D549EF00012C1C4 /* EvilIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = EvilIcons.ttf; sourceTree = "<group>"; };
+		C12CFCE62D549EF00012C1C4 /* Feather.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Feather.ttf; sourceTree = "<group>"; };
+		C12CFCE72D549EF00012C1C4 /* FontAwesome.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome.ttf; sourceTree = "<group>"; };
+		C12CFCE82D549EF00012C1C4 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Brands.ttf; sourceTree = "<group>"; };
+		C12CFCE92D549EF00012C1C4 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Regular.ttf; sourceTree = "<group>"; };
+		C12CFCEA2D549EF00012C1C4 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Solid.ttf; sourceTree = "<group>"; };
+		C12CFCEB2D549EF00012C1C4 /* FontAwesome6_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Brands.ttf; sourceTree = "<group>"; };
+		C12CFCEC2D549EF00012C1C4 /* FontAwesome6_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Regular.ttf; sourceTree = "<group>"; };
+		C12CFCED2D549EF00012C1C4 /* FontAwesome6_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Solid.ttf; sourceTree = "<group>"; };
+		C12CFCEE2D549EF00012C1C4 /* Fontisto.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Fontisto.ttf; sourceTree = "<group>"; };
+		C12CFCEF2D549EF00012C1C4 /* Foundation.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Foundation.ttf; sourceTree = "<group>"; };
+		C12CFCF02D549EF00012C1C4 /* Ionicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Ionicons.ttf; sourceTree = "<group>"; };
+		C12CFCF12D549EF00012C1C4 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialCommunityIcons.ttf; sourceTree = "<group>"; };
+		C12CFCF22D549EF00012C1C4 /* MaterialIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialIcons.ttf; sourceTree = "<group>"; };
+		C12CFCF32D549EF00012C1C4 /* Octicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Octicons.ttf; sourceTree = "<group>"; };
+		C12CFCF42D549EF00012C1C4 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SimpleLineIcons.ttf; sourceTree = "<group>"; };
+		C12CFCF52D549EF00012C1C4 /* Zocial.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Zocial.ttf; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -75,6 +94,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				C12CFCF62D549EF00012C1C4 /* Fonts */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -96,6 +116,32 @@
 				5709B34CF0A7D63546082F79 /* Pods-demoproject.release.xcconfig */,
 			);
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		C12CFCF62D549EF00012C1C4 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				C12CFCE32D549EF00012C1C4 /* AntDesign.ttf */,
+				C12CFCE42D549EF00012C1C4 /* Entypo.ttf */,
+				C12CFCE52D549EF00012C1C4 /* EvilIcons.ttf */,
+				C12CFCE62D549EF00012C1C4 /* Feather.ttf */,
+				C12CFCE72D549EF00012C1C4 /* FontAwesome.ttf */,
+				C12CFCE82D549EF00012C1C4 /* FontAwesome5_Brands.ttf */,
+				C12CFCE92D549EF00012C1C4 /* FontAwesome5_Regular.ttf */,
+				C12CFCEA2D549EF00012C1C4 /* FontAwesome5_Solid.ttf */,
+				C12CFCEB2D549EF00012C1C4 /* FontAwesome6_Brands.ttf */,
+				C12CFCEC2D549EF00012C1C4 /* FontAwesome6_Regular.ttf */,
+				C12CFCED2D549EF00012C1C4 /* FontAwesome6_Solid.ttf */,
+				C12CFCEE2D549EF00012C1C4 /* Fontisto.ttf */,
+				C12CFCEF2D549EF00012C1C4 /* Foundation.ttf */,
+				C12CFCF02D549EF00012C1C4 /* Ionicons.ttf */,
+				C12CFCF12D549EF00012C1C4 /* MaterialCommunityIcons.ttf */,
+				C12CFCF22D549EF00012C1C4 /* MaterialIcons.ttf */,
+				C12CFCF32D549EF00012C1C4 /* Octicons.ttf */,
+				C12CFCF42D549EF00012C1C4 /* SimpleLineIcons.ttf */,
+				C12CFCF52D549EF00012C1C4 /* Zocial.ttf */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -262,7 +308,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = demoproject/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -277,6 +323,7 @@
 				PRODUCT_NAME = demoproject;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -289,7 +336,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				INFOPLIST_FILE = demoproject/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -303,6 +350,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = demoproject;
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
