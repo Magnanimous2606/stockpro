@@ -22,7 +22,7 @@ const AddItemScreen: React.FC<{ navigation: AddItemScreenNavigationProp }> = ({ 
       setQuantity('');
     }
   };
-
+   
   const iconColor = (tab: string) => (tab === activeTab ? '#007BFF' : '#333');
 
   return (
